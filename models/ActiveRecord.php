@@ -111,7 +111,8 @@ class ActiveRecord {
         
 
         // debuguear($query);
-
+        // echo json_encode($query);
+    
         // Resultado de la consulta
         $resultado = self::$db->exec($query);
 

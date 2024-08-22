@@ -19,6 +19,8 @@ class AplicacionController
 
         try {
             $producto = new Aplicacion($_POST);
+
+
             $resultado = $producto->crear();
             http_response_code(200);
             echo json_encode([

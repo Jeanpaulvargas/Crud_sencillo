@@ -31,31 +31,31 @@
 
                     <div class="nav-item dropdown ">
                         <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">
-                            <i class="bi bi-cart3 me-2"></i>Productos
+                            <i class=""></i>Productos
                         </a>
                         <ul class="dropdown-menu  dropdown-menu-dark " id="dropwdownRevision" style="margin: 0;">
                             <!-- <h6 class="dropdown-header">Información</h6> -->
                             <li>
-                                <a class="dropdown-item  text-white " href="/base/productos"><i class="ms-lg-0 ms-2 bi bi-plus-circle me-2"></i>Productos</a>
+                                <a class="dropdown-item  text-white " href="/base/productos"><i class=""></i>Productos</a>
                             </li>
                         </ul>
                     </div>
                     <div class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">
-                            <i class="bi bi-person-circle me-2"></i>Usuarios
+                            <i class=""></i>Usuarios
                         </a>
                         <ul class="dropdown-menu dropdown-menu-dark" id="dropdownRevision" style="margin: 0;">
                             <li>
-                                <a class="dropdown-item text-white" href="/base/usuarios"><i class="ms-lg-0 ms-2 bi bi-person-add me-2"></i>Creacion de Usuarios</a>
+                                <a class="dropdown-item text-white" href="/base/usuarios"><i class=""></i>Creacion de Usuarios</a>
                             </li>
                             <li>
-                                <a class="dropdown-item text-white" href="/base/aplicacion"><i class="ms-lg-0 ms-2 bi bi-person-add me-2"></i>Aplicaciones</a>
+                                <a class="dropdown-item text-white" href="/base/aplicacion"><i class=""></i>Aplicaciones</a>
                             </li>
                             <li>
-                                <a class="dropdown-item text-white" href="/base/rol"><i class="ms-lg-0 ms-2 bi bi-person-add me-2"></i>Asignacion Roles</a>
+                                <a class="dropdown-item text-white" href="/base/rol"><i class=""></i>Asignacion Roles</a>
                             </li>
                             <li>
-                                <a class="dropdown-item text-white" href="/base/permiso"><i class="ms-lg-0 ms-2 bi bi-person-add me-2"></i>Permisos</a>
+                                <a class="dropdown-item text-white" href="/base/permiso"><i class=""></i>Permisos</a>
                             </li>
                         </ul>
                     </div>
